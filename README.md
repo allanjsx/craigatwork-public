@@ -1,2 +1,2 @@
 # craigatwork-public
-Public Repo for CraigAtWork.com
+Public Repo for https://www.craigatwork.com
